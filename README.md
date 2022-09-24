@@ -60,6 +60,14 @@ En este segundo ejercicio, tendréis que crear un programa que tenga:
 3. Mostrar un mensaje con el resultado de la nota y si ha aprobado o no.
 ### Tarea 8
 ---
+1. En este ejercicio tendréis que crear un módulo que contenga las operaciones básicas de una calculadora: 
+- Sumar
+- Restar
+- Multiplicar 
+- Dividir
+
+2. Este módulo lo importaréis a un archivo python y llamaréis a las funciones creadas. 
+3. Los resultados tenéis que mostrarlos por consola.
 ### Tarea 9
 ---
 ### Tarea 10
