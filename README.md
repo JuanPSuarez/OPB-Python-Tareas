@@ -67,9 +67,16 @@ En este segundo ejercicio, tendréis que crear un programa que tenga:
 - Dividir
 
 2. Este módulo lo importaréis a un archivo python y llamaréis a las funciones creadas. 
+
 3. Los resultados tenéis que mostrarlos por consola.
 ### Tarea 9
 ---
+
+1. En este segundo ejercicios tendréis que crear un script que nos diga si es la hora de ir a casa. 
+2. Tendréis que hacer uso del modulo time. 
+Necesitaréis la fecha del sistema y poder comprobar la hora.
+
+3. En el caso de que sean más de las 7, se mostrará un mensaje y en caso contrario, haréis una operación para calcular el tiempo que queda de trabajo.
 ### Tarea 10
 ---
 ### Tarea 11
