@@ -79,5 +79,6 @@ Necesitaréis la fecha del sistema y poder comprobar la hora.
 3. En el caso de que sean más de las 7, se mostrará un mensaje y en caso contrario, haréis una operación para calcular el tiempo que queda de trabajo.
 ### Tarea 10
 ---
+1. En este ejercicio, tendréis que crear un archivo py donde creéis un archivo txt, lo abráis y escribáis dentro del archivo. Para ello, tendréis que acceder dos veces al archivo creado.
 ### Tarea 11
 ---
