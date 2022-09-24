@@ -100,5 +100,7 @@ Necesitaréis la fecha del sistema y poder comprobar la hora.
 2. Al principio no tiene que haber una opción seleccionada.
 ### Tarea 15
 ---
+
+1. En este segundo ejercicio, tendréis que crear una interfaz sencilla la cual debe de contener una lista de elementos seleccionables, también debe de tener un label con el texto que queráis.
 ### Tarea 16
 ---
