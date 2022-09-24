@@ -92,6 +92,7 @@ Necesitaréis la fecha del sistema y poder comprobar la hora.
 4. Finalmente, muestra por consola la lista de países ordenados alfabéticamente y separados por comas.
 ### Tarea 13
 ---
+1. En este segundo ejercicio, tenéis que crear una aplicación que obtendrá los elementos impares de una lista pasada por parámetro con filter y realizará una suma de todos estos elementos obtenidos mediante reduce.
 ### Tarea 14
 ---
 ### Tarea 15
