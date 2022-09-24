@@ -82,3 +82,15 @@ Necesitaréis la fecha del sistema y poder comprobar la hora.
 1. En este ejercicio, tendréis que crear un archivo py donde creéis un archivo txt, lo abráis y escribáis dentro del archivo. Para ello, tendréis que acceder dos veces al archivo creado.
 ### Tarea 11
 ---
+1. En este segundo ejercicio, tendréis que crear un archivo py y dentro crearéis una clase Vehículo, haréis un objeto de ella, lo guardaréis en un archivo y luego lo cargamos.
+
+### Tarea 12
+---
+### Tarea 13
+---
+### Tarea 14
+---
+### Tarea 15
+---
+### Tarea 16
+---
