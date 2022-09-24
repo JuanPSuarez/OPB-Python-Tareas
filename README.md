@@ -95,6 +95,9 @@ Necesitaréis la fecha del sistema y poder comprobar la hora.
 1. En este segundo ejercicio, tenéis que crear una aplicación que obtendrá los elementos impares de una lista pasada por parámetro con filter y realizará una suma de todos estos elementos obtenidos mediante reduce.
 ### Tarea 14
 ---
+1. En este ejercicio tenéis que crear una lista de RadioButton que muestre la opción que se ha seleccionado y que contenga un botón de reinicio para que deje todo como al principio.
+
+2. Al principio no tiene que haber una opción seleccionada.
 ### Tarea 15
 ---
 ### Tarea 16
