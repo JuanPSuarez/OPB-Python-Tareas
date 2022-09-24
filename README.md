@@ -32,3 +32,33 @@ Escribe un programa en la consola de python que pida al usuario:
 ### Tarea 5
 ---
 1. Escribe una función que pueda decirte si un año (número entero) es bisiesto o no.
+
+### Tarea 6
+---
+
+1. En este ejercicio vais a crear la clase Vehículo la cual tendrá los siguientes atributos:
+
+    - Color
+
+    - Ruedas
+
+    - Puertas
+
+2. Por otro lado crearéis la clase Coche la cual heredará de Vehículo y tendrá los siguientes atributos:
+
+    - Velocidad
+
+    - Cilindrada
+
+3. Por último, tendrás que crear un objeto de la clase Coche y mostrarlo por consola.
+
+### Tarea 7
+---
+### Tarea 8
+---
+### Tarea 9
+---
+### Tarea 10
+---
+### Tarea 11
+---
