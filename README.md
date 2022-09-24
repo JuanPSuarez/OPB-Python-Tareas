@@ -31,3 +31,4 @@ Escribe un programa en la consola de python que pida al usuario:
 
 ### Tarea 5
 ---
+1. Escribe una función que pueda decirte si un año (número entero) es bisiesto o no.
