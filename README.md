@@ -86,6 +86,10 @@ Necesitaréis la fecha del sistema y poder comprobar la hora.
 
 ### Tarea 12
 ---
+1. Crea un script que le pida al usuario una lista de países (separados por comas). 
+2. Éstos se deben almacenar en una lista. 
+3. No debería haber países repetidos (haz uso de set). 4.
+4. Finalmente, muestra por consola la lista de países ordenados alfabéticamente y separados por comas.
 ### Tarea 13
 ---
 ### Tarea 14
