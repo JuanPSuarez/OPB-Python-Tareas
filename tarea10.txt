@@ -1,0 +1,2 @@
+Este es una linea de texto en mi archivo
+Esta es la segunda linea.
