@@ -54,6 +54,10 @@ Escribe un programa en la consola de python que pida al usuario:
 
 ### Tarea 7
 ---
+En este segundo ejercicio, tendréis que crear un programa que tenga: 
+1. Una clase llamada Alumno que tenga como atributos su nombre y su nota. 
+2. Deberéis de definir los métodos para inicializar sus atributos, imprimirlos. 
+3. Mostrar un mensaje con el resultado de la nota y si ha aprobado o no.
 ### Tarea 8
 ---
 ### Tarea 9
